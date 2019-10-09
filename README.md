@@ -10,7 +10,7 @@
 ## 概要
 * 日時      10月26日（土）から10月28日（月）まで
 * 会場      長野県駒ヶ根市　山ろく荘　https://alps-kodomokai.jp/shisetsu-shibukisou/
-* 参加資格者 以下の点をすべて満たすひと　(i) ひろい意味でとらえた哲学若手研究者　(ii) 主催者からたどれる紹介者がいる (iii) このしおりを熟読して会の趣旨や方針を理解・尊重し、運営にできるかぎり協力してくれる人
+* 参加資格者 以下の点をすべて満たすひと　(i) ひろい意味でとらえた哲学若手研究者　(ii) 主催者からたどれる紹介者がいる (iii) このしおり　https://github.com/endoshimpeiendo/2019philcamp/blob/master/README.md　を熟読して会の趣旨や方針を理解・尊重し、運営にできるかぎり協力してくれる人
 * 主催    　遠藤進平　endoshimpeiendo@gmail.com https://endoshimpeiendo.github.io/about/
 
 
